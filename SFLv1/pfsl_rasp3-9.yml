@@ -38,8 +38,8 @@ dependencies:
       - scipy==1.13.1
       - six==1.17.0
       - threadpoolctl==3.6.0
-      - torch==1.13.0a0+git7c98e70
-      - torchvision==0.14.0a0+5ce4506
+      - torch==1.13.0
+      - torchvision==0.14.0
       - typing-extensions==4.13.2
       - tzdata==2025.2
       - urllib3==2.4.0
